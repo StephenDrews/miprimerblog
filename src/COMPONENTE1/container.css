@@ -1,0 +1,23 @@
+.containerPrin{
+    background-color: aquamarine;
+    display: flex;
+    height: auto;
+}
+.contLeft{
+    background-color: blueviolet;
+    width: 50%;
+    /* padding: 20px; */
+    height: 480px;
+    display: flex;
+}
+.contRight{
+    background-color: tomato;
+    width: 50%;
+    padding: 20px;
+    height: 480px;
+}
+/* .Imagenuno{
+    background-color: violet;
+    margin-top: 10px;
+    color: black;
+} */
