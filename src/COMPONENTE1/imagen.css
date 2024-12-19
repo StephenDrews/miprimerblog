@@ -1,0 +1,14 @@
+.Imagenuno{
+    background-color: brown;
+    display: flex;
+    height: 520px;
+    width: 100%;
+    flex-direction: column;
+    margin-right: auto;
+    margin-left: auto;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+
+   
+}
